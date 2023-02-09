@@ -1,0 +1,13 @@
+name: Dogs
+title: Dogs
+username:
+account: donnyeva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8263559
+bundleId: 6826136
+url: https://donnyeva.shinyapps.io/Dogs/
+when: 1675910833.77043
+lastSyncTime: 1675910833.77045
+asMultiple: FALSE
+asStatic: FALSE
